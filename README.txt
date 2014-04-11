@@ -1,0 +1,1 @@
+This is a game where users guess whether a coin will come up heads or tails, and also keeps track of highest score.
